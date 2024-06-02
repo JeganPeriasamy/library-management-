@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&display=swap");
+body {
+  background-color: rgb(201, 191, 191);
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: bolder;
+  color: rgb(177, 164, 190);
+
+  overflow: hidden;
+  object-fit: cover;
+}
+.gradient-bg {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#0b38b636, #740606);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gradient-bg2 {
+  font-weight: bolder;
+  font-size: 35px;
+  background: -webkit-linear-gradient(#e8e7e6ee, #37d4d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
